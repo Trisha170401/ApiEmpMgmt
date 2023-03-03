@@ -1,0 +1,40 @@
+{
+    "employees": [
+        {
+            "emp_name": "Trisha Bhowmick",
+            "username": "tbhowmick",
+            "emp_id": "1234",
+            "age": "21",
+            "role": "Intern",
+            "dept": "Engineering",
+            "salary": "30000"
+        },
+        {
+            "emp_name": "John Smith",
+            "username": "john.smith13",
+            "emp_id": "2345",
+            "age": "33",
+            "role": "CTO",
+            "dept": "It",
+            "salary": "45000"
+        },
+        {
+            "emp_name": "Guy Franc",
+            "username": "franc.guy111",
+            "emp_id": "7890",
+            "age": "33",
+            "role": "manager",
+            "dept": "Sales",
+            "salary": "67000"
+        },
+        {
+            "emp_name": "Max Page",
+            "username": "mpage",
+            "emp_id": 7777,
+            "age": 23,
+            "role": "Intern",
+            "dept": "something",
+            "salary": 50000
+        }
+    ]
+}
